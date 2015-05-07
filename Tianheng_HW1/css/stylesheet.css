@@ -29,14 +29,14 @@ aside{
     margin-left: auto;
     margin-right: auto;
 }
-#MainFeature{
+.MainFeature{
     border: solid gray;
     padding: 5%;
     width: 75%;
     margin-right: auto;
     margin-left: auto;
 }
-div#image{
+.image{
     margin-top: 22px;
     width: 85%;
     margin-right: auto;
