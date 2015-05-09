@@ -1,0 +1,57 @@
+body {
+	font-family: Verdana;
+}
+
+img {
+	height: 240px;
+	width: 240px;
+}
+
+.container {
+	margin: 0px auto;
+	width: 600px;
+}
+
+.left-panel {
+	width: 43%;
+	float: left;
+}
+
+.right-panel {
+	width: 57%;
+	float: left;
+}
+
+.menu {
+	margin-top: 10px;
+	padding: 0px 10px;
+	border: 1px solid lightgray;
+	width: 218px;
+	height: 154px;
+}
+
+.main-title {
+	text-align: center;
+	color: #666666;
+	font-size: 35px;
+	margin: 10px;
+}
+
+.feature-title, .artical-title {
+	color: #f07c17;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+artical > h4 {
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+
+p, li{
+	line-height: 190%;
+}
+
+li, .artical {
+	font-size: 12px;
+}
