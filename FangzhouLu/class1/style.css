@@ -37,13 +37,13 @@ img {
 	margin: 10px;
 }
 
-.feature-title, .artical-title {
+.feature-title, .article-title {
 	color: #f07c17;
 	font-size: 18px;
 	font-weight: bold;
 }
 
-artical > h4 {
+article > h4 {
 	margin-top: 0px;
 	margin-bottom: 10px;
 }
@@ -52,6 +52,6 @@ p, li{
 	line-height: 190%;
 }
 
-li, .artical {
+li, .article {
 	font-size: 12px;
 }
