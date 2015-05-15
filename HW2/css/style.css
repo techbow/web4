@@ -1,0 +1,136 @@
+body{
+	background-color: rgb(32,34,40);
+}
+.container {
+	margin:50px auto;
+	font-family: "Century Gothic", Helvetica, sans-serif;
+	color: rgb(186,186,187);
+	width:800px;
+}
+.pic {
+	width: 18%;
+	height: 18%;
+
+	vertical-align: center;
+	
+	
+	border-radius: 50%;
+	border:transparent;
+	margin-left: 41%;
+	margin-right: 41%;
+}
+h1 {
+	
+	text-align: center;
+	font-family: Charcoal, sans-serif;
+	font-size: 1.5em;
+	font-weight: bold;
+
+}
+.contact {
+	
+	font-family: Charcoal, sans-serif;
+	text-align: center;
+	font-size: 0.8em;
+	color: #5466BD;
+
+}
+
+.accomplishment {
+	width:100%;
+}
+
+.num{
+	width:25%;
+	
+	float: left;
+	color: white;
+
+}
+h2 {
+	text-align: center;
+	font-size: 3em;
+	vertical-align: baseline;
+	margin-bottom: 0px;
+}
+.item{
+	text-align: center;
+	font-size: 0.8em;
+	margin-top: 0px;
+	vertical-align: text-top;
+} 
+.mid{
+	
+	width: 100%;
+	float: left;
+	margin-top: 10px;
+}
+
+.subtitle {
+	margin-top: 7px;
+	margin-bottom: 7px;
+	text-align: center;
+	font-size: 1.5em;
+	font-weight: bold;
+	color:white;
+
+}
+.contain {
+	width:100%;
+	margin-bottom: 100px;
+}
+.subtitle2 {
+	text-align: left;
+	font-size: 1.0em;
+	color: gray;
+	width:20%;
+	float:left;
+}
+.detail {
+	margin-top:0px;
+	font-size: 0.9em;
+	width: 80%;
+	float: left;
+}
+.half_left {
+	width:45%;
+	float: left;
+}
+.half_right {
+	width:45%;
+	float: right;
+}
+.company {
+	font-weight: bold;
+	color:#5466BD;
+	float: left;
+}
+
+.position {
+	font-weight: bold;
+	float: left;
+}
+
+.half_edu {
+	width:52%;
+	float:left;
+}
+
+.education {
+	font-size: 0.9em;
+	margin-top: 20px;
+	height:50%;
+}
+.degree {
+	font-weight: bold;
+	color: #5466BD;
+	font-size: 1.0em;
+}
+
+.cv_hr{
+	width: 100%;
+	color: gray;
+	border-style: dashed;
+	float: left;
+	margin-top:0px;
+}
