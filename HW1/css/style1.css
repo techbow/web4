@@ -1,0 +1,49 @@
+body {
+	font-family: 'Verdana';
+	color: #666666;
+}
+header {
+		color: #f07c17;
+}
+
+h1 {
+	font-size: 350%;
+	color: #666666;
+	padding-bottom: 0px;
+	padding-top:25px;
+}
+
+h2 {
+	font-size: 170%;
+	font-weight: bold;
+	
+	padding-bottom: 21px;
+}
+
+section{
+	box-sizing: border-box;
+	border:1px;
+	border-style: solid;
+	border-color: #CCCCCC;
+	height: 100%; 
+	width:100%;
+	padding-left: 30px;
+	padding-bottom: 20px;
+	padding-top: 10px;
+}
+
+section ul{
+	font-size: 115%;
+    line-height: 200%;
+}
+
+img {
+	margin-top:20px;
+	padding-bottom: 25px;
+}
+
+p {
+	font-size: 115%;
+    line-height: 200%;
+}
+
