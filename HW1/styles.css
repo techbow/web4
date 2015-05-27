@@ -1,0 +1,58 @@
+body{
+	font-family: Verdana;
+	#color: #666666;
+}
+
+header{
+	#color: #76767c;
+	#color: #f07c17;
+	font-size: 350%;
+    color: #666666;
+	text-align: center;
+	margin-top: 25px;
+}
+section h2{
+	
+	color: #f07c17;
+	font-weight: 900;
+	font-size: 27px;
+	adding-bottom: 21px;
+	margin-left: 10px;
+}
+
+section ul{
+
+	
+	font-size: 18px;
+	line-height: 200%;
+}
+section{
+	#box-sizing: content-box;
+  	border-style: solid;
+  	border-color: #CCCCCC;
+  	border-width: 1px;
+  	margin-top: 29px;
+  	height: 230px;
+  	padding-top: 10px;
+  	padding-left: 30px;
+  	padding-bottom: 28px;
+  	max-width: 408px;
+
+
+}
+img{
+	margin-top:28px;
+	width: 100%;
+  	height: auto;
+}
+
+main h2{
+	color: #f07c17;
+	font-weight: 900;
+	font-size: 170%;
+}
+main p{
+	font-size: 115%;
+    line-height: 200%;
+	font-color: #666666;
+}
